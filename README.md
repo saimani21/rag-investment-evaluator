@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# rag-investment-evaluator
-=======
-<<<<<<< HEAD
-# rag-investment-evaluator
-=======
+
 # 💼 RAG Investment Evaluator
 
 **RAG Investment Evaluator** is an AI-powered Streamlit app that automates the evaluation of startup investment memos using internal venture capital (VC) guidelines.
