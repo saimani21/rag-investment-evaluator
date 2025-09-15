@@ -198,12 +198,4 @@ fpdf
 
 
 
-## 📬 Contact
 
-Built by [Akhileswari Pemmanaboina](mailto:akhileswari712@gmail.com)
-
-Feel free to fork, improve, and contribute!
-
-> Empowering investors with AI-driven memo evaluation 🧠
->>>>>>> a2e9374 (Initial commit of the rag evaluator project)
->>>>>>> d6076a5 (Initial commit of the Rag project)
